@@ -1,0 +1,19 @@
+name: UsefulAdminUtils
+version: '${project.version}'
+main: me.diligord.usefuladminutils.UsefulAdminUtils
+api-version: 1.19
+authors: [ Diligord ]
+description: A collection of commands designed for admins.
+commands:
+  god:
+    description: Toggle invincibility.
+    usage: /<command>
+  feed:
+    description: Set hunger level to the max.
+    usage: /<command>
+  heal:
+    description: Set health level to the max.
+    usage: /<command>
+  fly:
+    description: Toggle ability to fly.
+    usage: /<command>
