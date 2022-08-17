@@ -17,3 +17,6 @@ commands:
   fly:
     description: Toggle ability to fly.
     usage: /<command>
+  vanish:
+    description: Toggle vanish. Makes you invisible to other players.
+    usage: /<command>
